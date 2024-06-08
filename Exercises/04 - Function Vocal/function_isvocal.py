@@ -1,4 +1,4 @@
-def is_vocal(character: str) -> str:
+def is_vocal(character: str) -> bool:
     
     if not isinstance(character, str):
         raise TypeError('A string is required.')

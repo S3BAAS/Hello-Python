@@ -1,4 +1,4 @@
-def length(value: str) -> str:
+def length(value: str) -> int:
     
     if not isinstance(value, str):
         raise TypeError('A string is required.')
