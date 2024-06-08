@@ -18,5 +18,3 @@ def max_three(num1: int, num2: int, num3: int) -> int:
         
     elif num3 > num1 and num3 > num2:
         print(num3)
-        
-max_three(1, 1, 3)

@@ -12,5 +12,3 @@ def is_vocal(character: str) -> str:
         return print(True)
     else:
         return print(False)
-
-is_vocal('A')

@@ -8,6 +8,3 @@ def length(value: str) -> str:
     for _i in value:
         n += 1
     return n
-
-
-print(length(10))

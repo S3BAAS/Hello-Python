@@ -10,5 +10,3 @@ def max_(num1: int, num2: int) -> int:
         print(num1)
     elif num2 > num1:
         print(num2)
-        
-max_(2, 'Hola')
